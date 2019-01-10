@@ -1,9 +1,5 @@
 
 
-
-# RESOURCES, SETTINGS AND DEFINITIONS ----------------------------
-
-
 stopwords = ['the', 'and', 'to', 'for', 'by', '|', "aren't", 'has', 'her', 'hers', 'its', 'themselves', 'who', 'index', 'php', 'pdf', 'html', 'htm', 'jsp', 'cgi' 'shtml', 'asp', 'having', 'my', 'nor', 've', "hasn't", 'yours', 'so', 'out', 'until', 'against', 'from', 'through', 'shan', 'are', 'that', 'me', 'at', 'between', 'into', 'very', 'those', 'll', 'wouldn', 'to', 'such', 'other', 'we', 'were', "didn't", 'won', 'being', 'doesn', 'myself', 'just', 'you', 'down', "haven't", 'whom', "should've", 'i', 'during', 'only', 'before', 'an', 'on', 'too', 'because', 'o', 'these', "mustn't", 'own', 'can', 'isn', 'why', "you'll", 'after', 'm', "doesn't", 'each', 'where', 'will', "shan't", 'ma', 'here', 'your', 'more', 'don', 'no', 'it', "you're", 'any', 'both', 'further', 'his', "shouldn't", 'now', "isn't", 'some', 'is', 'mustn', "won't", 'all', 'theirs', 'do', 'y', 'been', 'while', 'our', 'few', 'once', 'same', 're', "mightn't", 'there', 'd', 'didn', 'wasn', 'and', "she's", 'how', 'have', "it's", "don't", 'then', 'haven', 'ours', 'himself', 'aren', 'did', 'hadn', 'she', 'was', 'a', 'of', "couldn't", 't', "you'd", 'does', 'not', 'by', 'should', 'as', 'ain', 'up', 'am', 'herself', "you've", 'over', 'when', 'which', 'yourselves', 'shouldn', "weren't", 's', "needn't", "wouldn't", 'their', "wasn't", 'the', 'them', "hadn't", 'had', 'below', 'for', 'needn', 'under', 'weren', 'with', 'or', 'he', 'doing', 'mightn', 'they', 'in', 'if', 'couldn', 'what', 'off', 'yourself', 'but', 'above', 'about', 'ourselves', 'most', "that'll", 'itself', 'than', 'again', 'hasn', 'this', 'him', 'be']
 objects = ["de", "no", "es", "fi", "dk", "se", "es", "es"]
 synonymCheck = False
