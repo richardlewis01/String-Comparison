@@ -1,6 +1,5 @@
 
-##PROBLEM - Single word listAItem string matches do not currently work. When fixed, apply the URL-to-path converter to the listAItem column.
-## After that, look at handling parameter symbols like ? and =, and also at other types of space representers like '_' and '&20'      
+
 
 # RESOURCES, SETTINGS AND DEFINITIONS ----------------------------
 
